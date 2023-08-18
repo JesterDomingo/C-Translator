@@ -1,0 +1,20 @@
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\C# Translator.exe
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\C# Translator.deps.json
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\C# Translator.runtimeconfig.json
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\C# Translator.dll
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\C# Translator.pdb
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Year 1 Projects C#\C# Translator\C# Translator\bin\Debug\net6.0-windows\Siticone.Desktop.UI.dll
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.csproj.AssemblyReference.cache
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C__Translator.Form1.resources
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.csproj.GenerateResource.cache
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.AssemblyInfoInputs.cache
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.AssemblyInfo.cs
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.csproj.CoreCompileInputs.cache
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.csproj.CopyComplete
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.dll
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\refint\C# Translator.dll
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.pdb
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\C# Translator.genruntimeconfig.cache
+D:\Year 1 Projects C#\C# Translator\C# Translator\obj\Debug\net6.0-windows\ref\C# Translator.dll
